@@ -10,3 +10,6 @@ A simple HTML, CSS and JS page which generates random meme templates.
 
 ![](./res/generator.gif)
 
+### API
+- [API](https://api.imgflip.com/get_memes) by [imgflip](https://imgflip.com/)
+
